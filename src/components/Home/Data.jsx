@@ -4,13 +4,14 @@ import Hand from "../../assests/hand.svg";
 const Data = () => {
   return (
     <div className="home__data">
+      <h1 className="home__hi">Hi, I'm</h1>
       <h1 className="home__title">
         Sauvic Paul Choudhury
         <img src={Hand} alt="hand" className="home__hand" />
       </h1>
       <h3 className="home__subtitle"> Software Developer</h3>
       <p className="home__description">
-        I'm a Full Stack Developer based in Assam , and I'm very passionate and
+        I'm a Full Stack Developer based in India , and I'm very passionate and
         dedicated to my work.
       </p>
       <a href="#contact" className="button button--flex">
