@@ -17,9 +17,7 @@ const About = () => {
           <p className="about__description">
             A Software Developer who specializes in ReactJS. Having experience
             working with Node.js, Express and MongoDB, seeking a challenging
-            career opportunity, which is conducive to learn and grow at
-            professional as well as personal level through absolute commitment
-            with a strong endeavour for team spirit.
+            career opportunity.
           </p>
           <a download="" href={Resume} className="button button--flex">
             Download CV{" "}

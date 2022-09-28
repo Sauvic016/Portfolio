@@ -119,4 +119,9 @@
   .nav__list{
     column-gap: 0;
   }
+  .nav__icon,
+  .nav__close,
+  .nav__toggle{
+  display: block;
+  }
 }

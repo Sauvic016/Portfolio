@@ -10,7 +10,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i className="uil uil-github"></i>
+        <i className="uil uil-github-alt"></i>
       </a>
       <a
         href="https://www.linkedin.com/in/sauvicpaulchy/"
